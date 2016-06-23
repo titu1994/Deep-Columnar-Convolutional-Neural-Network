@@ -19,7 +19,7 @@ The weights for this model are available in the weights folder.
 ## DCCNN SVHN
 
 This architecture is similar to the MNIST dataset, but uses the SVHN dataset, of nearly 600,000 color images. It acheives an error rate of
-<b>1.92</b>. It was not possible to use the larger DCCNN CIFAR 100 architecture for this model, due to insufficient GPU memory.
+<b>1.92%</b>. It was not possible to use the larger DCCNN CIFAR 100 architecture for this model, due to insufficient GPU memory.
 
 Note that while similar, pooling is accomplished by using Convolutional Subsampling rather than Max Pooling.
 
