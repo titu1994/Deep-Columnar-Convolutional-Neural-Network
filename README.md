@@ -8,6 +8,8 @@ MNIST, CIFAR 10/100, and SHVN.
 
 Although it does not improve on the state of the art, it shows that smaller architectures with far fewer parameters can rival the performance of large ensemble networks.
 
+Paper : <a href="http://www.ijcaonline.org/archives/volume145/number12/25331-2016910772">"Deep Columnar Convolutional Neural Network"</a>
+
 # Architectures
 ## DCCNN MNIST
 
